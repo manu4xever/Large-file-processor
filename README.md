@@ -1,6 +1,7 @@
 # Large-file-processor
 
-FYI: Docker could not be installed, as my laptop kept showing error, which I could not resolve in the present time.
+FYI: 1)Docker could not be installed, as my laptop kept showing error, which I could not resolve in the present time.
+2) repository cannot have collaborators unless its public or my account is pro so inorder to have access to collaborators I have made it public
 
 Details: Two part of code, 1)multitest.py: Reads the csv file and ingest it 
 			   2) Makes the aggregate table
